@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Ruan Miguel, sou estudante de Telemática no IFPB.
+Meu nome é Ruan Miguel, sou estudante de Comútação na UEPB.
 
 Amo programar em Python(:snake:), atualmente dedico meus estudos à linguagem JavaScript e estou aprendendo muito.
 
@@ -8,7 +8,7 @@ No meu tempo livre adoro ler livros(:books:), ouvir música(:notes:), assistir s
 
  :speech_balloon: Você pode me encontrar em:
 - :mailbox_with_mail: - ruan.miguelsc@gmail.com
-- ![LinkedIn logo](https://user-images.githubusercontent.com/46824593/87449039-0754f100-c5d3-11ea-9eeb-4d10d71febae.png) - (https://www.linkedin.com/in/ruan-miguel-5943211a7/)]
+- ![LinkedIn logo](https://user-images.githubusercontent.com/46824593/87449039-0754f100-c5d3-11ea-9eeb-4d10d71febae.png) - https://www.linkedin.com/in/ruan-miguel-5943211a7/
 
 
 ## Oi eu sou Ruan Miguel!
