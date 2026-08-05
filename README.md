@@ -126,8 +126,8 @@ No meu tempo livre, eu gosto de ler livros(:books:), ouvir música(:notes:), ass
 ## Oi eu sou Ruan Miguel!
 <div align="center">
   <a href="https://github.com/RuanMiguel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanMiguel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiguel&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanMiguel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiguel&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/> -->
   </a>
 </div>
 
@@ -146,7 +146,7 @@ No meu tempo livre, eu gosto de ler livros(:books:), ouvir música(:notes:), ass
 <div>
   <a href="mailto:ruan.miguelsc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-miguel-5943211a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+<!--  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"> -->
 </div>
 
 
@@ -161,10 +161,10 @@ No meu tempo livre, eu gosto de ler livros(:books:), ouvir música(:notes:), ass
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiguel&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&cache_seconds=86400" />
 </div>
 
-<!-- badges, com trofeu -->
+<!-- badges, com trofeu 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RuanMiguel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
  <!-- redes sociais e profissional -->
 <div align="center">
@@ -172,18 +172,18 @@ No meu tempo livre, eu gosto de ler livros(:books:), ouvir música(:notes:), ass
 <a href="https://www.linkedin.com/in/ruan-miguel-5943211a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
 
- <!-- minhas habilidades -->
+ <!-- minhas habilidades 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 
-<!-- estudando no momento -->
+<!-- estudando no momento
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp; -->
 
 
 <div align="center">
